@@ -23,3 +23,5 @@ Georgi Stier
 
 ## 🤘 Homepage
 Schau mal auf meiner Webseite vorbei: https://stier.dev
+
+LinkedIn: www.linkedin.com/in/stier-dev
